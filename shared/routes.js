@@ -11,9 +11,9 @@ const routes = {
     linkLabel: "Declarative",
     content: `<object data="./src/declarative/index.html" width="100%" height="100%">`,
   },
-  "/mixed": {
-    linkLabel: "Mixed",
-    content: `<object data="./src/mixed/index.html" width="100%" height="100%">`,
+  "/bad-mixed": {
+    linkLabel: "Bad Mixed",
+    content: `<object data="./src/bad-mixed/index.html" width="100%" height="100%">`,
   },
   "/bad-cart": {
     linkLabel: "Bad Cart",
