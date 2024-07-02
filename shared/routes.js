@@ -15,6 +15,10 @@ const routes = {
     linkLabel: "Mixed",
     content: `<object data="./src/mixed/index.html" width="100%" height="100%">`,
   },
+  "/bad-cart": {
+    linkLabel: "Bad Cart",
+    content: `<object data="./src/bad-cart/index.html" width="100%" height="100%">`,
+  },
 };
 
 export { routes };
